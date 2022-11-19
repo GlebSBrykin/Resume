@@ -29,6 +29,6 @@ Deep learning, Programming, Electronics
 ## Conferences
 
 * __Artificial Intelligence in Management, Control, and Data Processing Systems, BMSTU, Moscow, Russia, April, 27, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
-* __Data Analytics and Management in Data-Intensive Domains, ITMO, Saint Petersburg, Ocrober, 4, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
+* __XXIV International Conference "Data Analytics and Management in Data-Intensive Domains" DAMDID/RCDL'2022, ITMO, Saint Petersburg, Ocrober, 4, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
 * __NXXIV International Conference on Artificial Neural Networks (Neuroinformatics-2022), MIPT, Dolgoprudny, Russia, October, 17, 2022__ "DeOldify.NET: cross-platform application for coloring black and white photos"
 * __Workshop on Neural Network Applications (XXIV International Conference on Artificial Neural Networks (Neuroinformatics-2022), MIPT, Dolgoprudny, Russia, October, 17, 2022)__ "Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks"
