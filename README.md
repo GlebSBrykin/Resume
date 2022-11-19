@@ -1,16 +1,16 @@
 # Resume
 
-* __The founder of ColorfulSoft and the author of its developments__
+* __Founder of ColorfulSoft and author of its developments__
 * Author of scientific articles on deep learning and electronics
 * Teacher of courses in deep learning and programming
 
-# Interests
+## Professional interests
 
 Deep learning, Programming, Electronics
 
-# Publications
+## Publications
 
-## Electronics
+### Electronics
 
 * Gleb S. Brykin: _Pocket High Voltage Generator_, cxem.net e-print, https://cxem.net/tesla/tesla54.php
 * Gleb S. Brykin: _Superminiature SGTC, cxem.net e-print_, https://cxem.net/tesla/tesla55.php
@@ -22,11 +22,11 @@ Deep learning, Programming, Electronics
 * Gleb S. Brykin: _QCW RbSSTC. Part 1_, cxem.net e-print, https://cxem.net/tesla/tesla62.php
 * Gleb S. Brykin: _Pulse-width modulator on transistors_, cxem.net e-print, https://cxem.net/pitanie/5-416.php
 
-## Deep learning & Programming
+### Deep learning & Programming
 
 * Gleb S. Brykin: _The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem_. In Artificial Intelligence in Management, Control, and Data Processing Systems. Proceedings of the All-Russian Scientific Conference (Moscow, April 27–28, 2022), pp. 166-172, ISBN 978-5-7038-5911-7
 
-# Conferences
+## Conferences
 
 * __Artificial Intelligence in Management, Control, and Data Processing Systems, BMSTU, Moscow, Russia, April, 27, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
 * __Data Analytics and Management in Data-Intensive Domains, ITMO, Saint Petersburg, Ocrober, 4, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
