@@ -8,6 +8,15 @@
 
 Deep learning, Programming, Electronics
 
+## Technology stack
+
+* __.NET Framework__
+* C++
+* C#
+* CIL
+* Python
+* PascalABC.NET
+
 ## Publications
 
 ### Electronics
