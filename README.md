@@ -34,6 +34,7 @@ Deep learning, Programming, Electronics
 ### Deep learning & Programming
 
 * Gleb S. Brykin: _The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem_. In Artificial Intelligence in Management, Control, and Data Processing Systems. Proceedings of the All-Russian Scientific Conference (Moscow, April 27–28, 2022), pp. 166-172, ISBN 978-5-7038-5911-7
+* Gleb S. Brykin: _Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks_. In Intelligent Data Processing: Theory and Applications: Book of abstract of the 14th International Conference (Moscow, 2022), pp. 147-149, ISBN 978-5-907366-77-0
 
 ## Conferences
 
@@ -41,3 +42,4 @@ Deep learning, Programming, Electronics
 * __XXIV International Conference "Data Analytics and Management in Data-Intensive Domains" DAMDID/RCDL'2022, ITMO, Saint Petersburg, Ocrober, 4, 2022__ "The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem"
 * __NXXIV International Conference on Artificial Neural Networks (Neuroinformatics-2022), MIPT, Dolgoprudny, Russia, October, 17, 2022__ "DeOldify.NET: cross-platform application for coloring black and white photos"
 * __Workshop on Neural Network Applications (XXIV International Conference on Artificial Neural Networks (Neuroinformatics-2022), MIPT, Dolgoprudny, Russia, October, 17, 2022)__ "Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks"
+* __14th International Conference “Intelligent Data Processing: Theory and Applications” (IDP-14), Russian Academy of Sciences, Federal Research Center “Computer Science and Control” of RAS, Moscow, December, 8, 2022__ "Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks"
