@@ -36,6 +36,7 @@ Deep learning, Programming, Electronics
 
 * Gleb S. Brykin: _The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem_. In Artificial Intelligence in Management, Control, and Data Processing Systems. Proceedings of the All-Russian Scientific Conference (Moscow, April 27–28, 2022), pp. 166-172, ISBN 978-5-7038-5911-7
 * Gleb S. Brykin: _Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks_. In Intelligent Data Processing: Theory and Applications: Book of abstract of the 14th International Conference (Moscow, 2022), pp. 147-149, ISBN 978-5-907366-77-0
+* Gleb S. Brykin: _The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem_. In Trudy Instituta sistemnogo analiza Rossiyskoy akademii nauk (ISA RAN) (Proceedings of the Institute for Systems Analysis Russian Academy of Sciences (ISA RAS)), pp. 64-72, DOI: 10.14357/20790279230108
 
 ## Conferences
 
