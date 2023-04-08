@@ -31,6 +31,7 @@ Deep learning, Programming, Electronics
 * Gleb S. Brykin: _QCW RbSSTC. Part 1_, cxem.net e-print, https://cxem.net/tesla/tesla62.php
 * Gleb S. Brykin: _Pulse-width modulator on transistors_, cxem.net e-print, https://cxem.net/pitanie/5-416.php
 * Gleb S. Brykin: _Pulse-width modulator on discrete components_. In RADIO ELECTRONICS, ELECTRICAL ENGINEERING AND POWER ENGINEERING: Twenty-ninth International Scientific-Technical conf. of students and postgraduates (March 16-18, 2023, Moscow): Tez. dokl., pp. 40-40, ISBN 978-5-907292-90-1
+* Gleb S. Brykin: _The simplest full bridge SSTC_, cxem.net e-print, https://cxem.net/tesla/tesla63.php
 
 ### Deep learning & Programming
 
