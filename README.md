@@ -1,5 +1,6 @@
 # Resume
 
+* __BCs degree at Bauman Moscow State Technical University, 2024__
 * __Founder of ColorfulSoft and author of its developments__
 * Author of scientific articles on deep learning and electronics
 * Teacher of courses in deep learning and programming
@@ -40,6 +41,8 @@ Deep learning, Programming, Electronics
 * Gleb S. Brykin: _DEOLDIFY.NET: CROSS-PLATFORM APPLICATION FOR COLORING BLACK AND WHITE PHOTOS_. In XXIV International Scientific and Technical Conference
 "NEUROINFORMATICS-2022" : collection of scientific papers (Dolgoprudny, October 17–21, 2022), pp. 107-115, ISBN 978-5-7417-0823-1
 * Gleb S. Brykin: _The System.AI Project: Fully Managed Cross-Platform Machine Learning and Data Analysis Stack for .NET Ecosystem_. In Trudy Instituta sistemnogo analiza Rossiyskoy akademii nauk (ISA RAN) (Proceedings of the Institute for Systems Analysis Russian Academy of Sciences (ISA RAS)), pp. 64-72, DOI: 10.14357/20790279230108
+* Gleb S. Brykin, Boris S. Goryachkin: _New Generation of B Programming Language for Data Analysis Tasks_. In 6th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), pp. 1-6, DOI: 10.1109/REEPE60449.2024.10479911
+* Gleb S. Brykin, Valeria Efimova: _ReactSR: Efficient Real-World Super-Resolution Application in a Single Floppy Disk_. In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: VISAPP; ISBN 978-989-758-728-3; ISSN 2184-4321, SciTePress, pages 483-490. DOI: 10.5220/0013175800003912
 
 ## Conferences
 
@@ -49,3 +52,8 @@ Deep learning, Programming, Electronics
 * __Workshop on Neural Network Applications (XXIV International Conference on Artificial Neural Networks (Neuroinformatics-2022), MIPT, Dolgoprudny, Russia, October, 17, 2022)__ "Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks"
 * __14th International Conference “Intelligent Data Processing: Theory and Applications” (IDP-14), Russian Academy of Sciences, Federal Research Center “Computer Science and Control” of RAS, Moscow, December, 8, 2022__ "Patch2Vec: a simple and efficient convolution algorithm for mobile neural networks"
 * __XXIX International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Moscow Power Engineering Institute, National Research University, Moscow, Russia, Marth, 17, 2023__ "Pulse-width modulator on discrete components"
+* __The 2024 6th International Youth Conference on Radio Electronics, Electrical and Power Engineering (IEEE 6th REEPE 2024), Moscow, Russia, February, 29, 2024__ "New Generation of B Programming Language for Data Analysis Tasks"
+* __XIII ITMO Young Scientists Congress, ITMO University, Saint Petersburg, Russia, April, 9, 2024__ "Technologies for localization of deep learning on client devices"
+* __XXIX Interuniversity Scientific and Technical Conference of Students, Postgraduates and Young Specialists named after E.V. Armensky, National Research University "Higher School of Economics", Tikhonov Moscow Institute of Electronics and Mathematics, Moscow, Russia, April, 9, 2024__ "Fast convolution algorithms with low memory consumption"
+* __Artificial Intelligence in Management, Control, and Data Processing Systems, BMSTU, Moscow, Russia, October, 30, 2024__ "Development of a Cross-Platform Application for Fast Photorealistic Image Super Resolution"
+* __20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP 2025), Porto, Portugal, February, 27, 2025__ "ReactSR: Efficient Real-World Super-Resolution Application in a Single Floppy Disk"
