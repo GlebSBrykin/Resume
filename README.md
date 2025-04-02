@@ -8,11 +8,11 @@
 
 ## Professional interests
 
-Deep learning, Programming, Electronics
+Deep learning, Compilers & Interpreters, Programming in General, Electronics
 
 ## Technology stack
 
-* __.NET Framework__
+* __.NET Framework/Mono/.NET Core/.NET__
 * C++
 * C#
 * CIL
