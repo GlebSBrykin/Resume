@@ -1,6 +1,7 @@
 # Resume
 
 * __BCs degree at Bauman Moscow State Technical University, 2024__
+* __Certified DevOps Engineer at Bauman Moscow State Technical University, 2024__
 * __Founder of ColorfulSoft and author of its developments__
 * Author of scientific articles on deep learning and electronics
 * Teacher of courses in deep learning and programming
@@ -17,6 +18,7 @@ Deep learning, Programming, Electronics
 * CIL
 * Python
 * PascalABC.NET
+* Java
 
 ## Publications
 
@@ -57,3 +59,7 @@ Deep learning, Programming, Electronics
 * __XXIX Interuniversity Scientific and Technical Conference of Students, Postgraduates and Young Specialists named after E.V. Armensky, National Research University "Higher School of Economics", Tikhonov Moscow Institute of Electronics and Mathematics, Moscow, Russia, April, 9, 2024__ "Fast convolution algorithms with low memory consumption"
 * __Artificial Intelligence in Management, Control, and Data Processing Systems, BMSTU, Moscow, Russia, October, 30, 2024__ "Development of a Cross-Platform Application for Fast Photorealistic Image Super Resolution"
 * __20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP 2025), Porto, Portugal, February, 27, 2025__ "ReactSR: Efficient Real-World Super-Resolution Application in a Single Floppy Disk"
+
+## Exhibitions
+
+* __XVIII All-Russian Innovative Youth Scientific and Engineering Exhibition "Polytechnic", dedicated to the 170th anniversary of the birth of V.G. Shukhov, within the framework of the congress "Russian Engineer", BMSTU, Moscow, Russia, October, 30, 2023__ "Technologies for localization of deep learning on client devices" ___Diploma of the first degree in the information technology nomination___
